@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 I'm a developer :thinking:. I spend most of time learning DSA. 
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bbdb7njjf6kuiffoaunphmx3za&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31bbdb7njjf6kuiffoaunphmx3za&redirect=true)
+
 #### Top Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [ [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bbdb7njjf6kuiffoaunphmx3za&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31bbdb7njjf6kuiffoaunphmx3za&redirect=true)
+
